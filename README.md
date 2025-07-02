@@ -18,9 +18,9 @@ Workflow yang diimplementasikan akan melakukan langkah-langkah berikut secara ot
 - *CI/CD:* GitHub Actions
 
 ## Informasi Mahasiswa
-- *Nama:* [Isi dengan Nama Lengkap Anda]
-- *NIM:* [Isi dengan NIM Anda]
-- *Kelas:* [Isi dengan Kelas Anda]# Proyek UAS PKPL - CI/CD Workflow
+- *Nama:* [Ardia_Alfaroji]
+- *NIM:* [2406136]
+- *Kelas:* [C]# Proyek UAS PKPL - CI/CD Workflow
 
 Proyek ini adalah submission untuk Ujian Akhir Semester (UAS) mata kuliah Pengembangan dan Kualitas Perangkat Lunak (PKPL).
 
