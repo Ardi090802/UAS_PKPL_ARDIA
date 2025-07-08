@@ -18,6 +18,6 @@ Workflow yang diimplementasikan akan melakukan langkah-langkah berikut secara ot
 - **CI/CD:** GitHub Actions
 
 ## Informasi Mahasiswa
-- **Nama:** [Muhamad Rais Ar]
-- **NIM:** [2406133]
+- **Nama:** [Ardia Alfaroji]
+- **NIM:** [2406136]
 - **Kelas:** [C]
